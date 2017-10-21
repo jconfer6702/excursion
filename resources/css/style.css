@@ -1,0 +1,18 @@
+body{
+  background:black;
+  font-family:verdana;
+  text-align:center;
+}
+h1{
+  color:white;
+  font-size:50px;
+}
+h3{
+  color:white;
+}
+h4{
+  color:gray;
+}
+h6{
+  color:aquamarine;
+}
